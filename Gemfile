@@ -9,7 +9,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'bootstrap', '~> 4.0.0alpha3.1' 
+gem 'bootstrap', '~> 4.0.0alpha3.1'
+gem 'react-rails' 
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
